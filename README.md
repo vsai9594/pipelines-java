@@ -1,4 +1,4 @@
-[![Build status](https://dev.azure.com/pattapusvamsi/FirstProject/_apis/build/status/FirstProject-CI)](https://dev.azure.com/pattapusvamsi/FirstProject/_build/latest?definitionId=2)(https://dev.azure.com/pattapusvamsi/FirstProject/_build/latest?definitionId=1&branchName=master)  
+[![Build status](https://dev.azure.com/pattapusvamsi/FirstProject/_apis/build/status/FirstProject-CI)](https://dev.azure.com/pattapusvamsi/FirstProject/_build/latest?definitionId=2)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
